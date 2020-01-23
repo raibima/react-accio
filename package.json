@@ -20,7 +20,7 @@
     "react": "^16.3.2"
   },
   "dependencies": {
-    "hoist-non-react-statics": "^2.5.0"
+    "hoist-non-react-statics": "^3.3.2"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
